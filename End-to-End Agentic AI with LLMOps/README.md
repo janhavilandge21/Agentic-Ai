@@ -190,5 +190,5 @@ http://localhost:8501
 ---
 
 
-Just say **NEXT** 🚀
+
 
